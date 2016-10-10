@@ -1,0 +1,14 @@
+
+.ui-widget,.ui-widget .ui-widget {
+    font-size: 90% !important;
+}
+.imagen-principal {
+    width:100%; 
+    min-width: 800px; 
+   /* height: auto;
+    max-width: 300px; 
+    max-height: 300px;*/
+}
+.tablasinborde{
+    border:none;
+}
